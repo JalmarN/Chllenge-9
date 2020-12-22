@@ -1,0 +1,15 @@
+*{
+	font-family: verdana;
+}
+h1{
+	text-align: center;
+	color: red;
+}
+body{
+	background-color: black;		
+}
+.ruta{
+	float: left;
+	width: 20rem;
+	margin-left: 5rem;
+}
